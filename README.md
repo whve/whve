@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 🥅 Goals: Learn more 
 
 [VeTech](https://whve.github.io/VeTech/)
+<br />
+<br />
 [VeTech Blog](https://whve.github.io/VeTechBlog/)
 
