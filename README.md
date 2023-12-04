@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 [VeTech](https://whve.github.io/VeTech/)
 <br />
-<br />
 [VeTech Blog](https://whve.github.io/VeTechBlog/)
 
