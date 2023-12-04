@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Learn more 
 
-[VeTech]: https://whve.github.io/VeTech/
-[VeTech Blog]: https://whve.github.io/VeTechBlog/
+[VeTech](https://whve.github.io/VeTech/)
+[VeTech Blog](https://whve.github.io/VeTechBlog/)
 
