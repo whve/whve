@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a PHD student!!
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 Goals: Learn more 
+
+[VeTech]: https://whve.github.io/VeTech/
+[VeTech Blog]: https://whve.github.io/VeTechBlog/
+
