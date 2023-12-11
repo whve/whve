@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## I'm a PHD student!!
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 Goals: Learn more 
+- 🌱 I’m currently learning Bioinformatics 🤣
+- 🥅 Goals: share more knowledge rep 
 <!--
 记录一些想法，目前还是空的。比如macOS上的透明的悬浮窗笔记。
 -->
