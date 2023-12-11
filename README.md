@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <!--
 blog ？记录想法，一些需要成长的项目？
 -->
-[VeTech Blog](https://whve.github.io/VeTechBlog/)
+[VeTechBlog](https://whve.github.io/VeTechBlog/)
 
 
