@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a PHD student!!
+## Thank you！
 
-- 🌱 I’m currently learning Bioinformatics 🤣
-- 🥅 Goals: share more knowledge rep 
+- 🌱 Bioinformatics 🤣
+- 🥅 Goals: share more rep 🤣
 
 <!--
 blog ？记录想法，一些需要成长的项目？
