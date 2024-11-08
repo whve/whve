@@ -1,4 +1,4 @@
-## **GTD**
+## **GTD-ve**
 
 ### planning
 1. [x] template: project
@@ -17,7 +17,7 @@
 1. 期刊自创elifes
 
 
-###### Contact [Email: me](zhewang.zw@foxmail.com)
+###### Contact [Email: me](mailto:zhewang.zw@foxmail.com)
 
 ---
 
