@@ -5,6 +5,7 @@
 1. [ ] 修正括号符号、词汇
 1. [ ] github set 定时更新
 1. [ ] 出国交流的准备
+1. [ ] 整理gpt中的部分文章intp的放松攻略。
 
 
 
@@ -29,6 +30,8 @@
 
 ### about AI+
 1. AI+ agent一起改善生活
+1. talk to GPT
+1. 一个播放列表走天下
 
 ---
 ## paper lists todo-1h
