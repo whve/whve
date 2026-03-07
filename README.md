@@ -1,48 +1,41 @@
-## **GTD-ve** 
----
-### Planning
-1. [ ] 双语的web内容 - copilot
-1. [ ] 修正括号符号、词汇
-1. [ ] github set 定时更新
-1. [ ] 出国交流的准备
-1. [ ] 整理gpt中的部分文章intp的放松攻略。
+<p align="center">
+  <h1 align="center">Hi there, I'm Ve Wh 👋</h1>
+  <p align="center">
+    <strong>Scientific IT Engineer | Bio-IT Infrastructure | Data Plumber</strong>
+    <br>
+    <i>Transforming messy scientific data into robust, automated IT pipelines.</i>
+  </p>
+</p>
 
 
-
-
-### Doing
-
-### Done
-1. [ ] task completed
 
 ---
 
-## Repository Lists
-### about me
-1. Personal BLOG: [VeTechBlog](https://whve.github.io/VeTechBlog/)
-1. Personal Homepage: [VeTech](https://whve.github.io/VeTech/)
-1. Self-created Journal elifes todo5min？
+### ⚡ My Engineering Philosophy
+> **"If a manual task has to be done more than twice, it deserves a script."** > I build bridges between complex biological research and stable DevOps infrastructure. Less entropy, more automation.
 
-### about PHD
-1. 开题zone
-1. Rstudio code zone
-1. VScode zone for quarto（paper、ppt）
+### 🛠️ The Minimum Viable Stack
+*What I actually use to get the job done in production:*
 
-### about AI+
-1. AI+ agent一起改善生活
-1. talk to GPT
-1. 一个播放列表走天下
+<p align="left">
+  <strong>System & Ops:</strong><br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+<p align="left">
+  <strong>Code & Data:</strong><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextflow-23aa62?style=flat-square&logo=nextflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+
 
 ---
-## paper lists todo-1h
-1. [ ] 感悟类的笔记备忘
-
----
-###### Contact [Email: me](mailto:zhewang.zw@foxmail.com)
-
----
-
-<!--
-**whve/whve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-效果很满意，使用分割线将每一部分进行了分隔。看起来不错。
--->
+<p align="center">
+  🌍 <i>Currently open to opportunities in <b>Germany / Europe</b></i>
+</p>
